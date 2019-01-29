@@ -13,7 +13,9 @@ void main(){
 		arr[i] = rand()%10;
 
 		cout << "Hello World";
-		
+		cout << "Hello World";
+		cout << "Hello Git";
+
 	}
 
 	for (int i = 0; i < sum; i++)
